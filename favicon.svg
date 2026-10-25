@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Portfolio favicon">
+  <rect width="512" height="512" fill="#000000"/>
+
+  <g transform="translate(24 10)">
+    <!-- left page -->
+    <rect x="18" y="46" width="270" height="302" rx="8" fill="#dde3e8" stroke="#1d1d1d" stroke-width="10"/>
+    <rect x="58" y="92" width="198" height="18" rx="9" fill="#1d1d1d"/>
+    <rect x="58" y="128" width="198" height="18" rx="9" fill="#1d1d1d"/>
+    <rect x="58" y="164" width="198" height="18" rx="9" fill="#1d1d1d"/>
+    <rect x="58" y="200" width="198" height="18" rx="9" fill="#1d1d1d"/>
+    <rect x="58" y="236" width="198" height="18" rx="9" fill="#1d1d1d"/>
+
+    <!-- person -->
+    <g>
+      <circle cx="160" cy="120" r="62" fill="#f0c7a5"/>
+      <path d="M98 122c0-31 25-56 56-56 30 0 55 25 55 56v32H98v-32Z" fill="#f0c7a5"/>
+      <path d="M112 118c0-25 20-46 45-46 25 0 45 19 45 46v18H112v-18Z" fill="#d9a77d" opacity="0.75"/>
+      <path d="M95 258c4-42 32-74 70-74h38c38 0 67 32 71 74l12 120H82l13-120Z" fill="#ed5d73"/>
+      <path d="M113 164h90c18 0 32 14 32 32v26H81v-26c0-18 14-32 32-32Z" fill="#eb5d74"/>
+      <path d="M117 148h82c10 0 18 8 18 18v20H99v-20c0-10 8-18 18-18Z" fill="#f48d9d" opacity="0.35"/>
+      <path d="M87 256c22 18 50 26 79 26s57-8 81-26v24H87v-24Z" fill="#d65065"/>
+      <path d="M123 118c9-7 20-10 31-10 17 0 34 8 45 22-13 7-30 11-45 11-12 0-23-4-31-11Z" fill="#e6b38a"/>
+      <path d="M111 118c-1-15 8-29 22-36 18 7 28 22 29 40-17 1-31 0-51-4Z" fill="#d09a6d"/>
+      <path d="M187 118c3-15-7-30-22-38-18 7-28 21-31 39 17 2 32 1 53-1Z" fill="#d09a6d"/>
+      <path d="M130 160c13 10 23 13 36 13 16 0 29-5 41-18 0 14-7 27-20 38-15 13-30 18-48 18-18 0-31-7-42-21 8-10 21-22 33-30Z" fill="#f0c7a5" opacity="0.85"/>
+    </g>
+
+    <!-- checklist / paper -->
+    <g transform="translate(290 12)">
+      <rect x="0" y="20" width="202" height="238" rx="8" fill="#dfe3e7" stroke="#1d1d1d" stroke-width="10"/>
+      <rect x="38" y="58" width="128" height="16" rx="8" fill="#1d1d1d"/>
+      <rect x="38" y="95" width="128" height="16" rx="8" fill="#1d1d1d"/>
+      <rect x="38" y="132" width="128" height="16" rx="8" fill="#1d1d1d"/>
+      <rect x="38" y="169" width="128" height="16" rx="8" fill="#1d1d1d"/>
+      <rect x="38" y="206" width="96" height="16" rx="8" fill="#1d1d1d"/>
+      <g transform="translate(110, 160)">
+        <rect x="0" y="0" width="126" height="126" rx="12" fill="#20a5ff" stroke="#1d1d1d" stroke-width="12"/>
+        <path d="M26 66l26 27 54-63 20 17-74 88-46-42 20-27Z" fill="#ffffff"/>
+      </g>
+    </g>
+
+    <!-- pencil -->
+    <g transform="translate(196 282)">
+      <rect x="0" y="34" width="120" height="14" rx="6" fill="#2b2b2b"/>
+      <rect x="118" y="34" width="18" height="14" rx="6" fill="#f3d76d"/>
+      <rect x="132" y="34" width="42" height="14" rx="6" fill="#f5d467"/>
+      <path d="M168 34h42l10 14h-52z" fill="#d9a93a"/>
+      <path d="M118 0h54l20 34h-54z" fill="#f7d671"/>
+      <path d="M132 0h40l-8 34h-40z" fill="#e9b63b"/>
+      <path d="M0 34h120l-8 18H8z" fill="#f2d26a"/>
+      <path d="M118 34h54l-8 18h-54z" fill="#d9a93a"/>
+      <path d="M172 34h18l0 18h-18z" fill="#c8982d"/>
+    </g>
+  </g>
+</svg>
